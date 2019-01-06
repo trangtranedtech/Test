@@ -2,7 +2,6 @@ var shirtWidth = 20;
 var shirtLength = 29;
 var shirtSleeve = 8.38;
 
-// Write your if/else code here
 if ((18<=shirtWidth<19.9) && (28<=shirtLength<28.9) && (8.13<=shirtSleeve<8.37)) {
     console.log("S");
 } else if ((20<=shirtWidth<22) && (29<=shirtLength<30) && (8.38<=shirtSleeve<8.63)) {
